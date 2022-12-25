@@ -1,2 +1,4 @@
 # DeepLearning-Facial-expression-recognition
-ResNet9 and ResNet34
+Identification if facial expressions using custom and pretrained models
+
+
